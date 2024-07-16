@@ -3,9 +3,10 @@
 // TASk 1
 // Declare a vriable using 'var', assign it a number, and log the value to the console.
 
-var num = 1234
-console.log(typeof num);
-console.log(num);
+// Declare a variable with var and assign a number
+var myNumber = 10;
+console.log("Value:", myNumber); // Logs: Value: 10
+
 
 // TASK 2
 // Declare a variable using 'let', assign it a string, and log the value to the console.
