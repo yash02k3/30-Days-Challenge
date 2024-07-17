@@ -1,3 +1,5 @@
+//ARITHMETIC OPERATORS
+
 //Task1 = wap to add two number and log the result to the console 
 function addnumbers(a,b){
 return a+b;
