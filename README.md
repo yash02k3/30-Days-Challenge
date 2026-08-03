@@ -1,4 +1,4 @@
-# 30 Days of JavaScript Challenges
+# 07 Days of JavaScript Challenges
 
 Welcome to the **30 Days of JavaScript Challenges** repository! This 30-day challenge is designed to help you learn JavaScript by completing daily coding challenges that cover various concepts and skills.
 
